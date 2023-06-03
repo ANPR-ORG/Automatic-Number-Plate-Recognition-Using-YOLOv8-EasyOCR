@@ -1,4 +1,3 @@
-# Automatic-Number-Plate-Recognition
 # Automatic Number Plate Recognition (ANPR)
 
 ### Description
